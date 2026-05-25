@@ -1,6 +1,4 @@
 # Labyrinth-of-Shadows
-====================
-
 DESCRIPTION
 ===========
 Labyrinth of Shadows is a maze puzzle game where the player must navigate through a maze to collect keys and escape. 
